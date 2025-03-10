@@ -17,7 +17,7 @@ module.exports = {
     errorLog: "", 
     nodes: [
        {
-        name: "5d0a605f-d1e9-4d5f-bc66-d58e8f45d89d-00-1e4t74wu6n78s.pike.replit.dev/",
+        name: "5d0a605f-d1e9-4d5f-bc66-d58e8f45d89d-00-1e4t74wu6n78s.pike.replit.dev",
         password: "Passwordisnotso",
         host: "0.0.0.0",
         port:  443,
