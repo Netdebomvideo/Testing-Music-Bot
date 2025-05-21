@@ -17,11 +17,11 @@ module.exports = {
     errorLog: "", 
     nodes: [
        {
-        name: "Avinan",
-        password: "avinan",
-        host: "new-york-node-1.vortexcloud.xyz",
-        port:  9323,
-        secure: false
+        name: "musix",
+      password: "wwweasycodero",
+      host: "lavalink-v2.pericsq.ro",
+      port:  6677,
+      secure: false
       }
     ]
   }
